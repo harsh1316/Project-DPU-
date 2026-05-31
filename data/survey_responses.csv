@@ -1,0 +1,271 @@
+respondent_id,age_group,gender,occupation,location_type,primary_platform,daily_time_spent,follows_brands,content_preference,ad_recall,targeted_ad_relevance,trust_in_targeted_ads,influencer_influence,engagement_frequency,social_purchase_influence,personalization_satisfaction,perceived_value_of_analytics,purchased_via_social,purchase_frequency
+R1000,45-54,Male,Student,Metro,Facebook,1-2 hrs,Yes,Image / Carousel,4,2,4,2,2,3,3,4,Yes,Occasionally
+R1001,45-54,Female,Student,Semi-urban,Facebook,1-2 hrs,Yes,Short video / Reels,4,3,4,3,3,4,3,4,Yes,Occasionally
+R1002,18-24,Female,Student,Urban,Facebook,1-2 hrs,No,Long video,3,2,1,1,2,3,3,4,Yes,Occasionally
+R1003,18-24,Male,Homemaker,Metro,Instagram,3-4 hrs,Yes,Image / Carousel,5,4,5,4,3,5,5,4,Yes,Frequently
+R1004,35-44,Male,Student,Metro,Instagram,2-3 hrs,Yes,Image / Carousel,4,3,4,4,3,1,4,2,No,Never
+R1005,25-34,Male,Salaried,Urban,Facebook,3-4 hrs,Yes,Short video / Reels,4,5,5,5,4,5,5,3,Yes,Rarely
+R1006,35-44,Male,Salaried,Urban,Facebook,3-4 hrs,Yes,Short video / Reels,3,4,3,4,5,3,2,3,Yes,Occasionally
+R1007,55+,Female,Salaried,Semi-urban,YouTube,2-3 hrs,Yes,Image / Carousel,3,2,3,2,2,2,2,2,No,Never
+R1008,25-34,Female,Salaried,Urban,YouTube,2-3 hrs,Yes,Stories,3,4,2,5,3,3,4,2,Yes,Occasionally
+R1009,35-44,Male,Salaried,Metro,X (Twitter),> 4 hrs,No,Short video / Reels,4,4,5,4,4,4,5,4,Yes,Rarely
+R1010,25-34,Male,Salaried,Metro,Facebook,1-2 hrs,Yes,Short video / Reels,2,3,3,2,3,2,2,4,Yes,Rarely
+R1011,55+,Female,Salaried,Urban,Instagram,> 4 hrs,Yes,Short video / Reels,2,4,5,4,4,4,2,4,Yes,Rarely
+R1012,18-24,Male,Salaried,Urban,LinkedIn,< 1 hr,Yes,Long video,3,4,2,2,3,4,4,4,Yes,Rarely
+R1013,18-24,Female,Salaried,Urban,Instagram,2-3 hrs,Yes,Text / Blog,1,2,1,2,3,2,3,4,No,Never
+R1014,35-44,Male,Student,Semi-urban,Instagram,3-4 hrs,Yes,Text / Blog,2,2,4,3,2,3,3,4,Yes,Occasionally
+R1015,55+,Male,Student,Urban,WhatsApp,< 1 hr,Yes,Long video,3,2,2,2,4,3,3,5,Yes,Frequently
+R1016,25-34,Female,Other,Urban,YouTube,> 4 hrs,Yes,Stories,5,4,2,4,3,3,3,4,Yes,Rarely
+R1017,25-34,Male,Salaried,Metro,YouTube,3-4 hrs,Yes,Image / Carousel,4,4,2,3,3,3,4,4,Yes,Occasionally
+R1018,18-24,Male,Salaried,Rural,Instagram,3-4 hrs,Yes,Short video / Reels,4,3,4,3,4,4,4,3,No,Never
+R1019,25-34,Male,Student,Metro,YouTube,3-4 hrs,Yes,Short video / Reels,4,4,4,4,5,4,4,4,Yes,Occasionally
+R1020,18-24,Male,Self-employed,Metro,WhatsApp,1-2 hrs,Yes,Short video / Reels,2,3,2,3,3,2,3,4,Yes,Occasionally
+R1021,25-34,Male,Salaried,Metro,Instagram,1-2 hrs,No,Image / Carousel,3,4,1,2,3,3,3,5,No,Never
+R1022,35-44,Male,Business owner,Rural,Facebook,2-3 hrs,Yes,Short video / Reels,3,3,4,2,4,3,3,4,Yes,Occasionally
+R1023,55+,Female,Student,Urban,Instagram,2-3 hrs,Yes,Short video / Reels,2,3,3,2,2,2,3,4,No,Never
+R1024,25-34,Male,Student,Rural,Instagram,2-3 hrs,Yes,Short video / Reels,4,4,3,3,3,3,3,5,Yes,Occasionally
+R1025,25-34,Female,Self-employed,Urban,LinkedIn,1-2 hrs,No,Image / Carousel,2,4,1,3,4,3,2,3,No,Never
+R1026,18-24,Female,Other,Semi-urban,Instagram,2-3 hrs,No,Long video,4,3,3,3,3,4,4,4,Yes,Occasionally
+R1027,35-44,Female,Student,Urban,X (Twitter),1-2 hrs,No,Long video,3,3,3,3,2,3,3,4,Yes,Occasionally
+R1028,18-24,Male,Student,Semi-urban,Instagram,1-2 hrs,Yes,Image / Carousel,4,1,3,3,3,3,4,4,Yes,Occasionally
+R1029,18-24,Male,Student,Urban,Instagram,2-3 hrs,Yes,Short video / Reels,4,4,5,3,4,4,5,5,No,Never
+R1030,55+,Male,Student,Semi-urban,LinkedIn,< 1 hr,Yes,Long video,3,2,3,1,1,1,2,3,No,Never
+R1031,35-44,Male,Other,Metro,Instagram,3-4 hrs,Yes,Text / Blog,2,3,3,3,2,2,3,5,No,Never
+R1032,35-44,Female,Salaried,Urban,Facebook,1-2 hrs,Yes,Short video / Reels,3,4,3,5,3,4,3,5,Yes,Occasionally
+R1033,18-24,Male,Salaried,Metro,YouTube,2-3 hrs,Yes,Long video,4,3,2,2,3,2,3,5,No,Never
+R1034,35-44,Male,Salaried,Rural,WhatsApp,1-2 hrs,Yes,Image / Carousel,1,2,1,2,2,1,2,4,No,Never
+R1035,35-44,Male,Salaried,Urban,YouTube,1-2 hrs,Yes,Short video / Reels,2,1,3,1,2,3,3,4,Yes,Rarely
+R1036,18-24,Male,Salaried,Semi-urban,Facebook,3-4 hrs,Yes,Image / Carousel,3,3,2,2,3,4,3,3,No,Never
+R1037,18-24,Male,Salaried,Urban,Instagram,2-3 hrs,No,Short video / Reels,5,4,4,3,3,4,3,4,Yes,Rarely
+R1038,25-34,Female,Business owner,Metro,WhatsApp,< 1 hr,Yes,Stories,3,2,1,1,2,1,1,5,No,Never
+R1039,18-24,Male,Student,Metro,Instagram,1-2 hrs,Yes,Short video / Reels,3,2,1,2,3,2,2,4,No,Never
+R1040,25-34,Male,Self-employed,Metro,WhatsApp,1-2 hrs,No,Stories,3,4,3,4,4,3,3,5,Yes,Occasionally
+R1041,35-44,Male,Other,Rural,Facebook,2-3 hrs,Yes,Short video / Reels,3,3,3,3,2,3,3,5,No,Never
+R1042,45-54,Male,Salaried,Urban,WhatsApp,1-2 hrs,Yes,Short video / Reels,3,2,2,2,1,1,3,3,No,Never
+R1043,25-34,Female,Salaried,Urban,WhatsApp,< 1 hr,Yes,Image / Carousel,2,1,1,2,2,2,2,4,Yes,Occasionally
+R1044,35-44,Female,Salaried,Metro,Instagram,> 4 hrs,Yes,Stories,3,3,3,2,3,3,3,4,Yes,Frequently
+R1045,35-44,Female,Self-employed,Metro,YouTube,> 4 hrs,No,Short video / Reels,4,4,5,4,4,4,3,4,Yes,Rarely
+R1046,18-24,Prefer not to say,Salaried,Metro,Facebook,2-3 hrs,Yes,Short video / Reels,4,4,3,4,5,3,3,4,Yes,Rarely
+R1047,25-34,Male,Salaried,Urban,YouTube,3-4 hrs,Yes,Text / Blog,3,4,2,3,4,3,4,4,Yes,Rarely
+R1048,25-34,Female,Salaried,Metro,Facebook,3-4 hrs,Yes,Long video,5,3,3,4,4,4,4,4,Yes,Occasionally
+R1049,35-44,Male,Student,Rural,Instagram,2-3 hrs,Yes,Long video,2,2,4,2,2,1,3,4,No,Never
+R1050,18-24,Male,Salaried,Semi-urban,LinkedIn,2-3 hrs,Yes,Short video / Reels,3,3,3,4,3,3,4,5,No,Never
+R1051,35-44,Male,Homemaker,Urban,WhatsApp,3-4 hrs,Yes,Image / Carousel,2,2,3,2,3,3,2,4,Yes,Frequently
+R1052,25-34,Male,Other,Rural,LinkedIn,2-3 hrs,No,Image / Carousel,3,3,3,4,3,4,3,4,Yes,Occasionally
+R1053,18-24,Female,Self-employed,Urban,LinkedIn,1-2 hrs,Yes,Stories,3,3,3,2,3,2,3,4,Yes,Occasionally
+R1054,18-24,Male,Student,Urban,Instagram,< 1 hr,No,Short video / Reels,3,3,3,2,4,3,3,4,Yes,Occasionally
+R1055,25-34,Male,Student,Metro,Facebook,1-2 hrs,Yes,Image / Carousel,4,5,4,5,5,4,5,3,Yes,Frequently
+R1056,18-24,Female,Student,Urban,Instagram,1-2 hrs,Yes,Short video / Reels,5,4,3,3,5,4,4,4,No,Never
+R1057,35-44,Male,Self-employed,Semi-urban,WhatsApp,< 1 hr,Yes,Image / Carousel,2,3,2,1,1,1,2,4,No,Never
+R1058,18-24,Male,Self-employed,Metro,YouTube,> 4 hrs,No,Short video / Reels,5,4,5,4,4,5,4,3,Yes,Occasionally
+R1059,18-24,Prefer not to say,Other,Metro,YouTube,2-3 hrs,Yes,Stories,4,4,3,5,3,3,4,5,Yes,Occasionally
+R1060,35-44,Male,Other,Metro,X (Twitter),2-3 hrs,No,Short video / Reels,4,3,3,3,3,2,3,5,No,Never
+R1061,18-24,Male,Student,Urban,LinkedIn,> 4 hrs,Yes,Long video,3,2,4,2,2,3,4,4,No,Never
+R1062,18-24,Female,Salaried,Urban,Instagram,> 4 hrs,Yes,Short video / Reels,5,4,3,4,4,5,4,3,Yes,Frequently
+R1063,25-34,Female,Salaried,Urban,Instagram,3-4 hrs,No,Short video / Reels,3,4,4,5,4,4,5,5,Yes,Occasionally
+R1064,18-24,Male,Salaried,Semi-urban,Instagram,2-3 hrs,Yes,Short video / Reels,3,3,2,3,3,2,3,4,No,Never
+R1065,25-34,Female,Homemaker,Semi-urban,Instagram,2-3 hrs,Yes,Image / Carousel,3,3,2,4,2,2,2,4,Yes,Rarely
+R1066,45-54,Male,Student,Urban,Instagram,2-3 hrs,Yes,Text / Blog,3,3,3,4,3,3,3,3,No,Never
+R1067,25-34,Female,Self-employed,Semi-urban,YouTube,1-2 hrs,No,Text / Blog,3,2,3,4,4,4,2,4,Yes,Rarely
+R1068,35-44,Male,Salaried,Metro,Instagram,< 1 hr,Yes,Short video / Reels,2,3,3,2,3,2,3,4,No,Never
+R1069,18-24,Male,Salaried,Rural,Instagram,3-4 hrs,Yes,Image / Carousel,4,5,3,5,4,4,4,5,Yes,Occasionally
+R1070,18-24,Male,Homemaker,Metro,YouTube,2-3 hrs,No,Image / Carousel,4,3,3,3,3,4,4,4,Yes,Frequently
+R1071,45-54,Female,Student,Rural,Other,1-2 hrs,Yes,Long video,3,1,2,1,2,1,2,4,No,Never
+R1072,35-44,Male,Student,Metro,Instagram,2-3 hrs,Yes,Image / Carousel,2,2,3,1,2,2,2,3,No,Never
+R1073,25-34,Female,Student,Metro,YouTube,1-2 hrs,Yes,Short video / Reels,3,4,3,4,4,3,4,3,No,Never
+R1074,18-24,Female,Student,Metro,YouTube,1-2 hrs,Yes,Short video / Reels,3,3,4,2,3,3,3,5,Yes,Rarely
+R1075,25-34,Male,Salaried,Metro,Instagram,3-4 hrs,Yes,Image / Carousel,4,4,3,4,4,3,3,4,No,Never
+R1076,35-44,Male,Business owner,Urban,YouTube,1-2 hrs,No,Text / Blog,4,4,2,3,4,4,2,3,No,Never
+R1077,35-44,Female,Salaried,Metro,WhatsApp,> 4 hrs,Yes,Image / Carousel,3,2,1,2,2,1,2,5,No,Never
+R1078,18-24,Male,Salaried,Metro,Instagram,2-3 hrs,Yes,Text / Blog,5,4,3,5,3,4,5,4,Yes,Occasionally
+R1079,35-44,Female,Salaried,Metro,YouTube,3-4 hrs,Yes,Image / Carousel,3,5,3,3,4,3,4,3,No,Never
+R1080,25-34,Female,Student,Metro,Instagram,1-2 hrs,Yes,Short video / Reels,4,3,2,3,3,2,2,5,Yes,Occasionally
+R1081,18-24,Male,Business owner,Rural,Instagram,2-3 hrs,Yes,Long video,4,2,3,5,4,3,4,3,Yes,Rarely
+R1082,18-24,Female,Other,Rural,Instagram,1-2 hrs,Yes,Long video,3,2,2,3,2,3,3,4,No,Never
+R1083,35-44,Male,Self-employed,Metro,Instagram,3-4 hrs,Yes,Image / Carousel,2,1,2,4,2,2,3,5,Yes,Rarely
+R1084,25-34,Male,Salaried,Semi-urban,X (Twitter),< 1 hr,Yes,Short video / Reels,4,3,2,2,4,3,3,3,No,Never
+R1085,25-34,Male,Salaried,Urban,LinkedIn,> 4 hrs,Yes,Image / Carousel,4,4,3,4,4,4,4,4,Yes,Rarely
+R1086,18-24,Female,Student,Metro,Facebook,3-4 hrs,Yes,Short video / Reels,2,2,2,2,3,2,4,5,No,Never
+R1087,18-24,Male,Business owner,Urban,Facebook,< 1 hr,Yes,Short video / Reels,2,3,2,2,2,3,4,2,No,Never
+R1088,45-54,Male,Student,Urban,Facebook,2-3 hrs,Yes,Stories,5,4,3,3,3,3,4,5,Yes,Rarely
+R1089,25-34,Female,Homemaker,Rural,WhatsApp,3-4 hrs,Yes,Image / Carousel,3,5,3,3,3,4,3,4,Yes,Rarely
+R1090,18-24,Female,Salaried,Urban,YouTube,2-3 hrs,No,Stories,2,3,3,2,1,2,2,4,No,Never
+R1091,35-44,Male,Other,Urban,Instagram,1-2 hrs,Yes,Long video,3,2,2,2,2,3,2,4,Yes,Occasionally
+R1092,35-44,Male,Salaried,Metro,YouTube,1-2 hrs,Yes,Short video / Reels,2,3,1,2,1,1,1,4,No,Never
+R1093,25-34,Male,Salaried,Urban,LinkedIn,3-4 hrs,Yes,Long video,4,4,3,2,3,4,2,3,Yes,Rarely
+R1094,35-44,Male,Self-employed,Metro,Facebook,< 1 hr,Yes,Long video,4,3,2,4,3,3,3,3,No,Never
+R1095,18-24,Female,Salaried,Urban,Instagram,1-2 hrs,Yes,Image / Carousel,4,4,5,4,5,5,4,4,Yes,Rarely
+R1096,45-54,Female,Salaried,Rural,Facebook,1-2 hrs,Yes,Image / Carousel,2,2,3,3,2,2,4,3,Yes,Occasionally
+R1097,45-54,Prefer not to say,Other,Urban,Other,< 1 hr,Yes,Short video / Reels,2,3,2,2,1,3,2,2,Yes,Frequently
+R1098,55+,Male,Salaried,Urban,Instagram,2-3 hrs,Yes,Short video / Reels,3,2,3,2,3,3,3,4,Yes,Occasionally
+R1099,55+,Female,Salaried,Rural,Instagram,3-4 hrs,No,Stories,3,3,2,2,3,2,2,4,Yes,Rarely
+R1100,25-34,Female,Salaried,Rural,Instagram,> 4 hrs,Yes,Short video / Reels,3,4,2,3,4,4,4,4,Yes,Occasionally
+R1101,25-34,Female,Salaried,Urban,Facebook,1-2 hrs,Yes,Image / Carousel,2,2,2,2,2,3,2,4,Yes,Rarely
+R1102,18-24,Male,Self-employed,Metro,Facebook,> 4 hrs,Yes,Text / Blog,5,4,3,4,3,5,4,4,Yes,Rarely
+R1103,35-44,Female,Student,Metro,Instagram,> 4 hrs,Yes,Image / Carousel,3,2,3,4,3,4,3,3,Yes,Occasionally
+R1104,45-54,Male,Salaried,Metro,YouTube,> 4 hrs,Yes,Image / Carousel,3,3,1,2,2,2,3,4,No,Never
+R1105,35-44,Female,Salaried,Semi-urban,Instagram,2-3 hrs,No,Image / Carousel,3,3,3,3,4,2,1,5,No,Never
+R1106,18-24,Male,Salaried,Metro,YouTube,2-3 hrs,Yes,Short video / Reels,3,3,3,4,4,3,4,4,Yes,Rarely
+R1107,25-34,Female,Student,Rural,Instagram,3-4 hrs,No,Short video / Reels,4,4,2,4,2,4,4,3,Yes,Rarely
+R1108,25-34,Male,Student,Urban,Instagram,< 1 hr,No,Image / Carousel,1,1,3,1,2,1,3,3,No,Never
+R1109,25-34,Female,Student,Metro,Instagram,3-4 hrs,Yes,Short video / Reels,4,3,3,4,5,4,5,4,No,Never
+R1110,18-24,Female,Salaried,Metro,YouTube,3-4 hrs,Yes,Image / Carousel,4,3,2,4,4,3,4,3,Yes,Occasionally
+R1111,35-44,Male,Homemaker,Urban,YouTube,3-4 hrs,Yes,Short video / Reels,3,3,4,2,2,4,3,3,Yes,Occasionally
+R1112,25-34,Female,Student,Metro,Instagram,2-3 hrs,Yes,Long video,3,4,5,3,4,3,2,2,Yes,Rarely
+R1113,35-44,Male,Salaried,Metro,YouTube,1-2 hrs,No,Long video,3,2,1,1,1,1,1,3,No,Never
+R1114,25-34,Female,Salaried,Metro,YouTube,2-3 hrs,No,Short video / Reels,2,4,3,2,4,2,3,4,Yes,Rarely
+R1115,18-24,Male,Self-employed,Urban,Instagram,1-2 hrs,Yes,Short video / Reels,5,4,2,4,5,4,4,2,Yes,Rarely
+R1116,55+,Male,Salaried,Metro,YouTube,3-4 hrs,Yes,Long video,4,4,3,4,5,5,5,4,Yes,Rarely
+R1117,25-34,Female,Self-employed,Metro,Instagram,1-2 hrs,Yes,Image / Carousel,3,2,2,1,1,2,2,4,Yes,Frequently
+R1118,25-34,Male,Self-employed,Urban,YouTube,2-3 hrs,No,Stories,4,3,2,2,2,3,3,4,Yes,Occasionally
+R1119,18-24,Female,Student,Semi-urban,YouTube,> 4 hrs,No,Short video / Reels,3,4,5,4,4,3,4,4,Yes,Occasionally
+R1120,45-54,Prefer not to say,Self-employed,Urban,Instagram,> 4 hrs,No,Long video,4,3,2,2,2,4,3,4,Yes,Occasionally
+R1121,25-34,Female,Salaried,Semi-urban,Instagram,2-3 hrs,No,Short video / Reels,2,3,2,4,3,3,3,4,No,Never
+R1122,25-34,Female,Salaried,Urban,Facebook,2-3 hrs,No,Short video / Reels,3,3,3,3,2,1,2,5,No,Never
+R1123,25-34,Male,Student,Urban,WhatsApp,> 4 hrs,Yes,Stories,5,5,5,5,5,5,5,4,Yes,Occasionally
+R1124,55+,Male,Business owner,Urban,WhatsApp,1-2 hrs,Yes,Short video / Reels,4,3,3,4,5,4,4,4,Yes,Occasionally
+R1125,25-34,Female,Salaried,Metro,YouTube,< 1 hr,No,Long video,2,3,1,1,1,2,3,4,No,Never
+R1126,25-34,Female,Self-employed,Semi-urban,YouTube,2-3 hrs,Yes,Image / Carousel,4,4,2,4,3,3,4,5,No,Never
+R1127,25-34,Male,Salaried,Semi-urban,YouTube,2-3 hrs,No,Image / Carousel,4,4,4,4,3,3,4,5,Yes,Occasionally
+R1128,25-34,Female,Self-employed,Urban,YouTube,3-4 hrs,Yes,Short video / Reels,3,4,1,3,4,3,5,5,Yes,Rarely
+R1129,18-24,Female,Homemaker,Semi-urban,YouTube,2-3 hrs,No,Image / Carousel,4,3,4,4,3,3,4,5,Yes,Rarely
+R1130,25-34,Male,Self-employed,Urban,Instagram,2-3 hrs,No,Long video,3,4,1,4,3,4,3,5,Yes,Occasionally
+R1131,25-34,Female,Self-employed,Metro,Facebook,1-2 hrs,No,Short video / Reels,3,2,1,2,1,3,3,5,Yes,Occasionally
+R1132,18-24,Female,Salaried,Urban,WhatsApp,1-2 hrs,No,Stories,3,4,3,2,5,2,2,3,No,Never
+R1133,25-34,Male,Student,Urban,Instagram,3-4 hrs,Yes,Short video / Reels,5,5,5,5,4,5,4,4,Yes,Occasionally
+R1134,55+,Female,Salaried,Rural,Facebook,1-2 hrs,Yes,Stories,3,2,2,1,2,1,3,4,No,Never
+R1135,45-54,Male,Salaried,Metro,Other,< 1 hr,Yes,Short video / Reels,2,1,3,2,1,1,1,4,Yes,Rarely
+R1136,18-24,Female,Salaried,Urban,X (Twitter),1-2 hrs,Yes,Stories,3,2,3,3,2,2,3,3,No,Never
+R1137,18-24,Male,Student,Urban,YouTube,< 1 hr,Yes,Short video / Reels,3,3,2,3,3,3,4,3,No,Never
+R1138,18-24,Male,Homemaker,Urban,X (Twitter),2-3 hrs,Yes,Short video / Reels,4,4,3,3,4,4,4,3,No,Never
+R1139,18-24,Male,Homemaker,Urban,Facebook,1-2 hrs,Yes,Short video / Reels,4,3,4,3,3,4,4,4,Yes,Occasionally
+R1140,18-24,Male,Student,Urban,Instagram,2-3 hrs,Yes,Stories,4,4,5,3,4,3,4,4,Yes,Rarely
+R1141,35-44,Female,Salaried,Metro,Instagram,2-3 hrs,Yes,Image / Carousel,3,4,3,2,3,2,3,4,Yes,Occasionally
+R1142,18-24,Male,Salaried,Semi-urban,LinkedIn,3-4 hrs,Yes,Short video / Reels,4,3,3,3,3,3,4,3,Yes,Occasionally
+R1143,18-24,Female,Student,Urban,Instagram,> 4 hrs,Yes,Short video / Reels,5,5,3,5,5,5,5,3,Yes,Occasionally
+R1144,45-54,Male,Salaried,Semi-urban,YouTube,< 1 hr,Yes,Short video / Reels,2,2,1,1,1,1,2,3,Yes,Occasionally
+R1145,35-44,Female,Self-employed,Urban,Instagram,1-2 hrs,Yes,Short video / Reels,3,3,3,3,4,2,3,4,Yes,Frequently
+R1146,25-34,Male,Salaried,Semi-urban,X (Twitter),2-3 hrs,No,Text / Blog,2,3,2,2,2,2,2,4,Yes,Occasionally
+R1147,45-54,Female,Salaried,Semi-urban,Instagram,< 1 hr,Yes,Long video,3,1,1,1,1,1,2,5,No,Never
+R1148,35-44,Female,Salaried,Semi-urban,WhatsApp,3-4 hrs,Yes,Short video / Reels,4,2,2,1,2,2,1,3,No,Never
+R1149,18-24,Male,Student,Rural,WhatsApp,1-2 hrs,Yes,Stories,3,2,3,3,3,3,4,4,No,Never
+R1150,18-24,Female,Student,Semi-urban,LinkedIn,3-4 hrs,Yes,Text / Blog,5,3,2,4,4,4,4,3,Yes,Frequently
+R1151,25-34,Male,Student,Rural,X (Twitter),2-3 hrs,No,Stories,3,2,2,2,1,1,3,3,No,Never
+R1152,18-24,Male,Business owner,Semi-urban,YouTube,1-2 hrs,Yes,Stories,3,3,3,4,3,2,3,5,Yes,Frequently
+R1153,35-44,Female,Homemaker,Metro,Instagram,3-4 hrs,Yes,Short video / Reels,1,2,3,2,3,3,3,3,Yes,Occasionally
+R1154,35-44,Female,Homemaker,Semi-urban,YouTube,> 4 hrs,Yes,Image / Carousel,4,4,3,5,4,4,5,4,Yes,Occasionally
+R1155,45-54,Male,Student,Metro,YouTube,2-3 hrs,Yes,Image / Carousel,4,4,3,3,4,3,3,5,No,Never
+R1156,18-24,Female,Salaried,Semi-urban,WhatsApp,2-3 hrs,No,Short video / Reels,4,4,4,3,4,3,4,5,Yes,Occasionally
+R1157,25-34,Male,Salaried,Urban,Facebook,< 1 hr,Yes,Long video,3,2,3,3,2,2,3,4,Yes,Frequently
+R1158,25-34,Male,Salaried,Metro,Instagram,< 1 hr,Yes,Stories,2,2,3,2,1,2,2,3,Yes,Rarely
+R1159,35-44,Male,Homemaker,Rural,YouTube,< 1 hr,Yes,Image / Carousel,3,3,2,2,3,3,4,4,Yes,Occasionally
+R1160,25-34,Male,Self-employed,Urban,WhatsApp,1-2 hrs,Yes,Image / Carousel,3,3,3,3,3,3,2,5,No,Never
+R1161,25-34,Female,Student,Rural,Instagram,1-2 hrs,No,Short video / Reels,4,3,3,3,4,4,3,4,No,Never
+R1162,18-24,Female,Salaried,Rural,WhatsApp,1-2 hrs,Yes,Text / Blog,4,3,4,3,3,3,4,5,Yes,Frequently
+R1163,35-44,Female,Salaried,Urban,YouTube,2-3 hrs,No,Short video / Reels,3,2,2,3,2,3,2,4,Yes,Occasionally
+R1164,18-24,Male,Student,Rural,Instagram,1-2 hrs,Yes,Long video,4,4,5,3,4,3,4,4,Yes,Occasionally
+R1165,18-24,Female,Salaried,Metro,Facebook,1-2 hrs,Yes,Short video / Reels,4,3,4,3,4,4,4,4,Yes,Rarely
+R1166,18-24,Female,Salaried,Urban,YouTube,< 1 hr,Yes,Image / Carousel,2,3,1,1,1,1,2,4,No,Never
+R1167,18-24,Male,Homemaker,Metro,YouTube,3-4 hrs,Yes,Short video / Reels,4,4,3,2,5,3,4,4,Yes,Rarely
+R1168,18-24,Male,Salaried,Urban,Instagram,3-4 hrs,Yes,Long video,5,5,4,3,4,4,3,4,No,Never
+R1169,25-34,Female,Salaried,Semi-urban,YouTube,2-3 hrs,No,Image / Carousel,4,3,3,4,4,3,3,3,Yes,Rarely
+R1170,55+,Female,Salaried,Semi-urban,YouTube,1-2 hrs,No,Short video / Reels,2,2,1,2,2,2,2,4,No,Never
+R1171,25-34,Male,Student,Metro,Instagram,> 4 hrs,Yes,Image / Carousel,4,4,2,4,4,4,3,5,No,Never
+R1172,25-34,Male,Salaried,Metro,X (Twitter),> 4 hrs,Yes,Image / Carousel,4,4,3,4,4,4,4,4,Yes,Rarely
+R1173,35-44,Male,Salaried,Urban,LinkedIn,> 4 hrs,Yes,Short video / Reels,4,5,2,2,4,3,3,5,No,Never
+R1174,25-34,Female,Student,Urban,LinkedIn,1-2 hrs,Yes,Short video / Reels,4,3,4,3,4,4,4,4,Yes,Frequently
+R1175,35-44,Male,Self-employed,Semi-urban,Instagram,> 4 hrs,Yes,Stories,4,5,3,4,4,5,5,3,Yes,Frequently
+R1176,25-34,Male,Student,Metro,LinkedIn,2-3 hrs,Yes,Text / Blog,3,2,4,3,2,2,3,4,Yes,Occasionally
+R1177,25-34,Male,Salaried,Rural,YouTube,2-3 hrs,Yes,Long video,2,2,3,1,2,2,2,4,No,Never
+R1178,18-24,Male,Business owner,Urban,WhatsApp,1-2 hrs,Yes,Long video,3,2,5,2,2,4,1,4,Yes,Frequently
+R1179,45-54,Male,Student,Urban,YouTube,> 4 hrs,Yes,Short video / Reels,4,4,3,4,4,4,4,3,No,Never
+R1180,18-24,Male,Salaried,Urban,LinkedIn,< 1 hr,No,Stories,1,1,1,2,1,1,1,4,Yes,Rarely
+R1181,35-44,Male,Salaried,Metro,Instagram,3-4 hrs,No,Short video / Reels,3,4,3,4,3,2,3,5,Yes,Occasionally
+R1182,25-34,Female,Student,Urban,Instagram,1-2 hrs,No,Short video / Reels,4,4,4,2,3,3,4,3,Yes,Rarely
+R1183,25-34,Female,Salaried,Metro,YouTube,2-3 hrs,Yes,Short video / Reels,4,4,1,4,4,5,5,3,Yes,Occasionally
+R1184,35-44,Female,Self-employed,Urban,Instagram,1-2 hrs,Yes,Short video / Reels,3,3,3,3,3,3,3,3,No,Never
+R1185,45-54,Female,Student,Metro,YouTube,> 4 hrs,Yes,Text / Blog,3,3,3,3,2,3,2,3,No,Never
+R1186,35-44,Female,Student,Urban,Facebook,< 1 hr,Yes,Short video / Reels,3,2,2,1,2,2,3,5,No,Never
+R1187,25-34,Female,Salaried,Rural,Instagram,1-2 hrs,Yes,Stories,4,2,3,3,1,2,2,5,No,Never
+R1188,25-34,Male,Homemaker,Semi-urban,Facebook,2-3 hrs,Yes,Image / Carousel,4,2,1,4,3,3,4,4,Yes,Occasionally
+R1189,18-24,Male,Salaried,Urban,YouTube,> 4 hrs,Yes,Short video / Reels,4,4,5,4,5,4,4,4,No,Never
+R1190,35-44,Female,Salaried,Urban,YouTube,1-2 hrs,Yes,Short video / Reels,2,2,2,2,3,3,2,4,Yes,Occasionally
+R1191,25-34,Male,Salaried,Metro,YouTube,> 4 hrs,No,Long video,5,5,3,5,5,5,5,3,Yes,Rarely
+R1192,18-24,Female,Self-employed,Urban,YouTube,3-4 hrs,Yes,Long video,4,5,3,3,3,4,2,3,Yes,Occasionally
+R1193,25-34,Male,Salaried,Metro,Instagram,2-3 hrs,Yes,Short video / Reels,3,3,2,3,2,3,3,3,Yes,Occasionally
+R1194,35-44,Male,Business owner,Urban,Instagram,1-2 hrs,No,Image / Carousel,2,3,3,3,2,3,2,5,No,Never
+R1195,18-24,Male,Salaried,Semi-urban,LinkedIn,3-4 hrs,Yes,Image / Carousel,5,5,5,5,4,4,4,5,Yes,Occasionally
+R1196,18-24,Female,Other,Urban,YouTube,3-4 hrs,Yes,Image / Carousel,4,3,4,4,3,3,4,2,Yes,Rarely
+R1197,25-34,Male,Salaried,Metro,YouTube,3-4 hrs,No,Short video / Reels,4,5,3,4,5,4,3,4,No,Never
+R1198,18-24,Female,Salaried,Semi-urban,Facebook,3-4 hrs,Yes,Long video,5,4,5,4,5,5,4,4,No,Never
+R1199,55+,Female,Student,Metro,Facebook,1-2 hrs,Yes,Text / Blog,3,4,3,2,3,2,3,4,No,Never
+R1200,35-44,Female,Salaried,Metro,Instagram,< 1 hr,Yes,Short video / Reels,3,3,4,2,2,3,4,3,Yes,Frequently
+R1201,18-24,Female,Student,Urban,Instagram,< 1 hr,No,Short video / Reels,3,2,3,3,3,3,2,4,No,Never
+R1202,25-34,Male,Salaried,Rural,Instagram,2-3 hrs,Yes,Image / Carousel,3,4,2,3,3,3,4,3,Yes,Rarely
+R1203,18-24,Male,Salaried,Urban,YouTube,2-3 hrs,Yes,Long video,3,4,3,3,3,3,4,4,No,Never
+R1204,18-24,Male,Salaried,Semi-urban,WhatsApp,2-3 hrs,Yes,Short video / Reels,4,3,3,3,3,3,3,4,No,Never
+R1205,35-44,Female,Salaried,Urban,WhatsApp,2-3 hrs,Yes,Short video / Reels,1,3,2,2,3,2,2,5,No,Never
+R1206,35-44,Female,Business owner,Urban,Instagram,1-2 hrs,Yes,Stories,3,4,2,3,4,2,3,3,Yes,Frequently
+R1207,35-44,Male,Salaried,Semi-urban,YouTube,2-3 hrs,No,Short video / Reels,1,2,3,2,2,1,3,4,No,Never
+R1208,25-34,Male,Self-employed,Urban,Instagram,2-3 hrs,Yes,Image / Carousel,3,3,3,2,3,2,4,4,No,Never
+R1209,18-24,Female,Salaried,Metro,Facebook,3-4 hrs,Yes,Image / Carousel,4,3,2,4,3,3,4,4,Yes,Occasionally
+R1210,18-24,Male,Business owner,Metro,Facebook,2-3 hrs,Yes,Image / Carousel,3,3,2,3,3,4,3,5,Yes,Occasionally
+R1211,18-24,Female,Salaried,Semi-urban,Other,< 1 hr,Yes,Image / Carousel,2,1,3,2,3,3,3,5,Yes,Occasionally
+R1212,18-24,Male,Student,Metro,YouTube,< 1 hr,Yes,Short video / Reels,3,3,2,2,3,3,2,4,Yes,Occasionally
+R1213,18-24,Female,Salaried,Rural,YouTube,1-2 hrs,Yes,Long video,4,3,4,2,2,2,3,5,No,Never
+R1214,18-24,Male,Salaried,Metro,Other,1-2 hrs,Yes,Image / Carousel,5,4,4,4,2,5,4,4,Yes,Rarely
+R1215,25-34,Male,Salaried,Metro,YouTube,1-2 hrs,No,Text / Blog,2,1,2,3,2,2,2,3,No,Never
+R1216,18-24,Female,Business owner,Urban,Instagram,1-2 hrs,Yes,Image / Carousel,3,3,3,3,4,2,3,3,Yes,Frequently
+R1217,45-54,Male,Salaried,Semi-urban,X (Twitter),1-2 hrs,Yes,Short video / Reels,2,2,1,2,2,2,2,5,No,Never
+R1218,45-54,Female,Self-employed,Metro,Facebook,> 4 hrs,Yes,Short video / Reels,3,4,3,2,4,4,3,5,Yes,Rarely
+R1219,55+,Female,Salaried,Urban,YouTube,< 1 hr,No,Short video / Reels,1,2,2,1,2,2,2,4,Yes,Occasionally
+R1220,18-24,Male,Salaried,Urban,YouTube,2-3 hrs,Yes,Short video / Reels,4,3,3,3,3,4,3,3,Yes,Rarely
+R1221,35-44,Male,Student,Urban,Instagram,2-3 hrs,Yes,Short video / Reels,3,2,2,1,2,3,3,3,No,Never
+R1222,18-24,Male,Self-employed,Urban,Facebook,1-2 hrs,No,Short video / Reels,4,2,3,3,4,3,4,4,No,Never
+R1223,55+,Male,Salaried,Metro,Instagram,2-3 hrs,Yes,Short video / Reels,2,3,2,2,3,2,3,4,Yes,Rarely
+R1224,45-54,Male,Salaried,Urban,YouTube,2-3 hrs,Yes,Short video / Reels,4,5,2,3,4,3,3,4,No,Never
+R1225,35-44,Male,Self-employed,Metro,YouTube,2-3 hrs,No,Short video / Reels,3,3,4,4,5,4,3,3,Yes,Rarely
+R1226,25-34,Male,Salaried,Urban,Instagram,2-3 hrs,Yes,Long video,5,4,5,5,4,5,4,4,Yes,Occasionally
+R1227,18-24,Male,Salaried,Metro,WhatsApp,2-3 hrs,No,Short video / Reels,3,3,3,4,2,4,5,4,Yes,Rarely
+R1228,35-44,Female,Salaried,Metro,Facebook,> 4 hrs,Yes,Short video / Reels,4,3,2,2,3,3,3,4,No,Never
+R1229,55+,Male,Salaried,Urban,Instagram,2-3 hrs,No,Stories,3,3,2,1,3,4,2,4,No,Never
+R1230,45-54,Female,Student,Urban,WhatsApp,2-3 hrs,Yes,Short video / Reels,4,4,3,3,3,3,3,4,Yes,Occasionally
+R1231,45-54,Male,Salaried,Urban,Instagram,3-4 hrs,Yes,Short video / Reels,3,3,3,4,2,2,3,4,Yes,Occasionally
+R1232,25-34,Male,Student,Urban,YouTube,1-2 hrs,Yes,Long video,3,1,4,2,2,2,2,4,No,Never
+R1233,18-24,Male,Salaried,Metro,Instagram,2-3 hrs,Yes,Short video / Reels,4,3,2,2,3,2,2,3,No,Never
+R1234,18-24,Female,Homemaker,Metro,Facebook,2-3 hrs,No,Short video / Reels,3,4,5,3,4,4,4,5,No,Never
+R1235,18-24,Male,Salaried,Urban,YouTube,3-4 hrs,No,Short video / Reels,2,2,2,3,2,2,2,5,No,Never
+R1236,35-44,Male,Homemaker,Metro,Instagram,3-4 hrs,Yes,Image / Carousel,3,3,3,3,2,4,3,4,Yes,Occasionally
+R1237,18-24,Female,Student,Urban,WhatsApp,2-3 hrs,No,Short video / Reels,3,4,2,3,4,4,4,4,Yes,Occasionally
+R1238,25-34,Male,Salaried,Urban,Instagram,> 4 hrs,Yes,Short video / Reels,5,5,3,5,5,5,5,4,Yes,Frequently
+R1239,25-34,Male,Business owner,Semi-urban,YouTube,> 4 hrs,Yes,Long video,4,3,3,3,3,4,4,5,Yes,Occasionally
+R1240,18-24,Female,Business owner,Metro,X (Twitter),1-2 hrs,Yes,Short video / Reels,3,4,4,3,3,3,3,4,No,Never
+R1241,45-54,Female,Self-employed,Metro,WhatsApp,2-3 hrs,Yes,Long video,1,2,3,2,3,2,3,5,Yes,Occasionally
+R1242,18-24,Male,Salaried,Urban,Instagram,> 4 hrs,Yes,Short video / Reels,5,3,4,4,4,4,2,4,Yes,Occasionally
+R1243,25-34,Male,Self-employed,Metro,YouTube,3-4 hrs,Yes,Long video,3,4,4,2,3,3,4,5,Yes,Occasionally
+R1244,35-44,Male,Student,Rural,Instagram,1-2 hrs,No,Long video,1,1,2,1,1,1,3,4,No,Never
+R1245,18-24,Male,Salaried,Semi-urban,Instagram,2-3 hrs,Yes,Short video / Reels,4,3,4,3,4,2,3,5,No,Never
+R1246,45-54,Female,Salaried,Semi-urban,WhatsApp,2-3 hrs,Yes,Short video / Reels,5,4,2,4,3,4,4,4,Yes,Occasionally
+R1247,25-34,Male,Business owner,Urban,YouTube,1-2 hrs,No,Image / Carousel,3,2,2,2,2,2,4,4,Yes,Frequently
+R1248,25-34,Male,Homemaker,Urban,Instagram,3-4 hrs,No,Image / Carousel,4,2,3,3,5,3,4,5,No,Never
+R1249,35-44,Male,Student,Semi-urban,Instagram,2-3 hrs,Yes,Image / Carousel,2,2,1,1,1,2,2,4,No,Never
+R1250,55+,Female,Salaried,Metro,LinkedIn,2-3 hrs,No,Short video / Reels,2,3,4,3,3,3,3,4,Yes,Rarely
+R1251,35-44,Female,Self-employed,Metro,Facebook,2-3 hrs,Yes,Short video / Reels,2,3,2,4,3,3,3,5,Yes,Occasionally
+R1252,45-54,Male,Salaried,Urban,X (Twitter),> 4 hrs,Yes,Short video / Reels,5,3,2,4,4,4,5,4,Yes,Frequently
+R1253,45-54,Female,Salaried,Urban,Instagram,1-2 hrs,Yes,Short video / Reels,1,2,2,2,2,1,3,4,No,Never
+R1254,18-24,Male,Homemaker,Semi-urban,WhatsApp,2-3 hrs,Yes,Short video / Reels,4,4,4,3,4,4,4,4,Yes,Rarely
+R1255,18-24,Male,Salaried,Metro,YouTube,2-3 hrs,Yes,Short video / Reels,4,3,4,4,4,3,4,4,Yes,Occasionally
+R1256,25-34,Male,Salaried,Urban,WhatsApp,3-4 hrs,No,Text / Blog,4,4,3,5,4,5,5,4,Yes,Rarely
+R1257,55+,Male,Other,Metro,Instagram,1-2 hrs,Yes,Image / Carousel,2,2,2,2,2,2,2,5,Yes,Rarely
+R1258,25-34,Female,Student,Metro,X (Twitter),3-4 hrs,Yes,Image / Carousel,4,4,4,5,3,4,4,3,Yes,Rarely
+R1259,18-24,Male,Student,Urban,Instagram,1-2 hrs,Yes,Short video / Reels,3,3,4,3,3,4,2,4,No,Never
+R1260,25-34,Female,Self-employed,Metro,YouTube,3-4 hrs,Yes,Image / Carousel,4,2,3,2,2,4,5,3,No,Never
+R1261,25-34,Female,Student,Metro,Facebook,1-2 hrs,No,Image / Carousel,4,4,3,3,2,4,4,3,Yes,Rarely
+R1262,18-24,Male,Student,Metro,Facebook,1-2 hrs,Yes,Short video / Reels,1,3,3,1,1,2,2,5,No,Never
+R1263,18-24,Female,Salaried,Urban,Instagram,2-3 hrs,Yes,Stories,4,4,2,4,3,4,3,2,No,Never
+R1264,18-24,Male,Salaried,Urban,WhatsApp,2-3 hrs,No,Short video / Reels,1,2,2,1,2,1,3,4,No,Never
+R1265,25-34,Female,Student,Metro,WhatsApp,1-2 hrs,No,Short video / Reels,4,4,1,3,4,3,3,3,Yes,Occasionally
+R1266,35-44,Female,Student,Urban,Other,2-3 hrs,Yes,Stories,5,4,3,2,2,4,3,5,Yes,Rarely
+R1267,25-34,Male,Salaried,Urban,Instagram,2-3 hrs,Yes,Short video / Reels,5,4,3,4,3,3,4,4,Yes,Occasionally
+R1268,55+,Female,Salaried,Urban,LinkedIn,< 1 hr,Yes,Image / Carousel,4,3,3,3,4,2,4,4,No,Never
+R1269,45-54,Male,Salaried,Semi-urban,WhatsApp,3-4 hrs,Yes,Short video / Reels,5,3,3,4,3,4,3,5,No,Never

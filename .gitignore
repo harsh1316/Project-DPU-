@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+_preview/
+*.tmp
+
+# Restyle backups & temp renders
+*.orig.html
+_tmp/
+_chk/
