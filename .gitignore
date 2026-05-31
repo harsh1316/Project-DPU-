@@ -11,3 +11,8 @@ Thumbs.db
 # Temp
 _preview/
 *.tmp
+
+# Restyle backups & temp renders
+*.orig.html
+_tmp/
+_chk/
