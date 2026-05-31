@@ -1,41 +1,48 @@
-# OMBP 405 - Project Work Report (DPU Format)
+# MBA Project — Social Media & Digital Marketing Analytics
 
-## A Study on the Impact of Digital Marketing Strategies on Consumer Buying Behaviour
-*With Special Reference to Flipkart India Pvt. Ltd.*
+**A Study on the Impact of Social Media and Digital Marketing Analytics on Consumer Engagement and Brand Performance**
 
-This report has been formatted to exactly match the **Dr. D. Y. Patil Vidyapeeth, Centre for Online Learning (DPU COL), Pune** prescribed sample format.
+MBA (Online) — Business Analytics specialization | Course OMBP 405 — Project Work | 2024–2026
+Student ID: 241116868 · PRN: 240502009463 · Mentor: Ms. Reshma Y. Sayyed
 
-### Student Details
-| Field | Details |
-|-------|---------|
-| **Name** | Harsh Vishnoi |
-| **ERP / Student ID** | 241116868 |
-| **PRN** | 240502009463 |
-| **Batch** | MBA Online - July 2024 (2024-2026) |
-| **Specialization** | Business Analytics |
-| **Internal Supervisor** | Ms. Reshma Y. Sayyed |
-| **Institute** | Dr. D. Y. Patil Vidyapeeth, Centre for Online Learning, Pune |
+---
 
-### Files
+## 📄 The Report (start here)
+
 | File | Description |
-|------|-------------|
-| `Project_Report_OMBP405.pdf` | Complete Project Report (45 pages, DPU format) |
-| `Research_Proposal_OMBP405.pdf` | Research Proposal (DPU format) |
-| `Project_Report_OMBP405.html` | Editable HTML source of the report |
-| `Research_Proposal_OMBP405.html` | Editable HTML source of the proposal |
+|---|---|
+| **[report/Project_Report.pdf](report/Project_Report.pdf)** | **Final 81-page report, A4, print-ready — submit this** |
+| [report/Project_Report.html](report/Project_Report.html) | Self-contained version (open in any browser; importable to Word) |
+| [report/Project_Report.md](report/Project_Report.md) | Editable Markdown source |
 
-### Report Structure (matches DPU sample)
-- Title Page, Declaration, Certificate (Guide + Director), Organization Certificate
-- Acknowledgements, Table of Contents, List of Figures/Tables/Abbreviations, Abstract
-- Chapter I: Introduction (with Company Profile)
-- Chapter II: Objective, Scope, and Purpose of Study
-- Chapter III: Review of Literature
-- Chapter IV: Research Methodology
-- Chapter V: Data Collection and Analysis
-- Chapter VI: Findings and Interpretation
-- Chapter VII: Recommendations and Conclusions
-- Bibliography and Annexures (Questionnaire + Supplementary Data)
+> To download: open the PDF above and click the **Download** (⬇) button on GitHub, or use **Code → Download ZIP** on the repo home page to get everything.
 
-### How to Download a PDF
-1. Click on the PDF file name above.
-2. On the file page, click the **Download** button (the download icon).
+## 📊 Datasets (`data/`)
+- `survey_responses.csv` — 270 primary survey responses
+- `campaign_performance.csv` — 12-month × 5-platform campaign metrics
+- `platform_summary.csv` — aggregated KPI summary by platform
+
+## 📈 Figures (`figures/`)
+17 charts and 2 composite dashboards used throughout the report.
+
+## 🔬 Reproducibility (`analysis/`)
+- `generate_project.py` — generates datasets, runs all statistics, builds figures
+- `build_html.py` — renders the report to HTML and PDF
+- `results.json` — every statistic cited in the report
+
+Rebuild from scratch:
+```bash
+pip install pandas numpy scipy matplotlib markdown weasyprint
+python3 analysis/generate_project.py
+python3 analysis/build_html.py
+```
+
+## Key findings
+- Sample n = 270 (79.4% response rate); scale reliability Cronbach's α = 0.889
+- Regression R² = 0.581 (p < 0.001) — engagement attitudes strongly predict purchase
+- Age does **not** significantly determine purchase (χ², p = 0.24)
+- Trust–value gap: analytics valued highest (3.93) vs. trust in ads lowest (2.83)
+- Campaign: 21.76M impressions, overall ROAS 4.45×
+
+---
+*Before submitting, replace the placeholders in the report: `[Student Name]`, `[Name of University / Institute]`, `[Programme Director / HOD]`, then rebuild the PDF.*
